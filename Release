@@ -1,8 +1,9 @@
-Origin: t0mi's Public Cydia Repo
-Label: t0mi's Public Cydia Repo
+Origin: t0mi's Repo
+Label: t0mi's Repo
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: t0mi's Public Repo.
+Description: t0mi's Repo
+Icon: file://CydiaIcon.jpg
