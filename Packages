@@ -1,3 +1,58 @@
+Package: com.twickd.t0mi.cydia-quick-translations
+Version: 1.2.9.9
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Depends: com.yourepo.ibreak.cydiaquick
+Conflicts: com.t0mi.cydiaquicktranslations
+Filename: ./debs/cydia-quick-translations.deb
+Size: 4822
+MD5sum: 20baf858da455d0b927f8e8ceffa5a02
+SHA1: fe1b19ce1fb7606f78e88e1a5ff69b6df1c0e6a5
+SHA256: 91805d833b6f0a22e88dd17823e979d399d3ae29913c6492af4122682e1e5b56
+Section: System
+Description: Now you can enjoy Cydia Quick in English and German. This is JUST THE TRANSLATION. First of all, you need the original tweak called "Cydia Quick". Repo: https://ibreak.yourepo.com/
+Tag: compatible_min::ios7.0, compatible_max::ios14.4
+Author: t0mi <fritsch.weiding@yahoo.de>
+Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-quick-translations
+Name: Cydia Quick Translations
+Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-quick-translations/native
+
+Package: com.twickd.t0mi.cydia-timeout-10
+Version: 1.0.9.9
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
+Filename: ./debs/cydia-timeout-10.deb
+Size: 946
+MD5sum: 94a7bfb56cdb4f8fb304c716bf6481bc
+SHA1: 5a10f76448091a05d40593b0901a7422eaaef00c
+SHA256: fc1ed4dcab3c49ffb157d0df61a7f404cb0f09d1d47c77d1c27864da9fb7f516
+Section: System
+Description: Force Cydia to only spend ten seconds trying to refresh each source. Cuts down on overall refresh time. Inspired by chickenmatt5's outdated Cydia Timeout 2/5/20.
+Tag: compatible_min::ios7.0, compatible_max::ios14.4
+Author: t0mi <fritsch.weiding@yahoo.de>
+Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-10
+Name: Cydia Timeout 10
+Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-10/native
+
+Package: com.twickd.t0mi.cydia-timeout-5
+Version: 1.0.9.9
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20, com.twickd.t0mi.cydia-timeout-10
+Filename: ./debs/cydia-timeout-5.deb
+Size: 958
+MD5sum: 001cd9fd845a33f87118b834dbb47e35
+SHA1: 2b2c3fc45fa928dedbaf67e25361199198aa6677
+SHA256: 320068c15d94942da99a8b38ec49493b64c8e1fb16fca66a30939eb2d0854679
+Section: System
+Description: Force Cydia to only spend five seconds trying to refresh each source. Cuts down on overall refresh time. Inspired by chickenmatt5's outdated Cydia Timeout 2/5/20.
+Tag: compatible_min::ios7.0, compatible_max::ios14.5
+Author: t0mi <fritsch.weiding@yahoo.de>
+Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-5
+Name: Cydia Timeout 5
+Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-5/native
+
 Package: com.twickd.t0mi.cydiapulldown
 Version: 0.9.9
 Architecture: iphoneos-arm
