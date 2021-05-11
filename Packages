@@ -71,7 +71,7 @@ Author: t0mi, iMokhles <fritsch.weiding@yahoo.de>
 Name: CydiaPullDown
 
 Name: SiriSpring
-Version: 0.4
+Version: 0.9
 Architecture: iphoneos-arm
 Author: t0mi <fritsch.weiding@yahoo.de>
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
@@ -79,7 +79,7 @@ Package: com.twickd.t0mi.sirispring
 Section: Themes
 Description: Siri Respring Theme
 Tag: compatible_min::ios11.0, compatible_max::ios14.6
-Filename: ./debs/com.twickd.t0mi.sirispring_0.4_iphoneos-arm.deb
-MD5sum: 1cb61f7ccabdaf33f07d1a68ab9a88f6
-SHA1: 7d2f4230711837d49323514f40798677e4a6fac0
-SHA256: e0ae1bd030ace9c905fd46b9695af5469234df73f457077495898fd6afe006cf
+Filename: ./debs/com.twickd.t0mi.sirispring_0.9_iphoneos-arm.deb
+MD5sum: 340ae2231610c7fa7fc59e904d83e316
+SHA1: 191eb963c4b89cdd6f891b90792e9b5f3f1c2a1d
+SHA256: 3308fd2d006b4a6ec5de8f28b8c02575c1762586781603b345873bf3a8855bb7
