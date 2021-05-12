@@ -71,15 +71,16 @@ Author: t0mi, iMokhles <fritsch.weiding@yahoo.de>
 Name: CydiaPullDown
 
 Package: com.twickd.t0mi.sirispring
-Version: 0.9
+Version: 0.9.1
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Installed-Size: 47754
 Filename: ./debs/sirispring.deb
-MD5sum: 340ae2231610c7fa7fc59e904d83e316
-SHA1: 191eb963c4b89cdd6f891b90792e9b5f3f1c2a1d
-SHA256: 3308fd2d006b4a6ec5de8f28b8c02575c1762586781603b345873bf3a8855bb7
+MD5sum: 5201626ad929ea751a39a7c5ca5f2347
+SHA1: 617a1486b37c572529e79c5cbe33149fc0fe81af
+SHA256: e74f623f02dd260ac67b32cefc6e76828a4806d47548e9b9dc6164e242599b06
 Section: Themes
-Description: Siri Respring Theme
+Description: iOS 14 Siri Respring Theme
 Tag: compatible_min::ios11.0, compatible_max::ios14.6
 Author: t0mi <fritsch.weiding@yahoo.de>
 Name: SiriSpring
