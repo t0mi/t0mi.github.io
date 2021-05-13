@@ -1,81 +1,154 @@
-Package: com.twickd.t0mi.cydia-quick-translations
-Version: 1.2.9.9
+Package: com.twickd.t0mi.applerespringprogress
+Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Depends: com.yourepo.ibreak.cydiaquick
-Conflicts: com.t0mi.cydiaquicktranslations
-Filename: ./debs/cydia-quick-translations.deb
-Size: 4822
-MD5sum: 20baf858da455d0b927f8e8ceffa5a02
-SHA1: fe1b19ce1fb7606f78e88e1a5ff69b6df1c0e6a5
-SHA256: 91805d833b6f0a22e88dd17823e979d399d3ae29913c6492af4122682e1e5b56
-Section: System
-Description: Now you can enjoy Cydia Quick in English and German. This is JUST THE TRANSLATION. First of all, you need the original tweak called "Cydia Quick". Repo: https://ibreak.yourepo.com/
-Tag: compatible_min::ios7.0, compatible_max::ios14.4
+Filename: ./debs/com.twickd.t0mi.applerespringprogress_4.0.deb
+Size: 1814800
+MD5sum: 2e512e5b2945606c382dcb72d3b31c69
+SHA1: 706048393976e3ead795fa78b49c690baad921f4
+SHA256: efe81179127db663f52c9cfe275b41bb5a16e616d521c3d2917194c7cdd23e91
+Section: Themes
+Description: Apple Logo Respring ProgressBar
 Author: t0mi <fritsch.weiding@yahoo.de>
-Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-quick-translations
+Name: AppleRespringProgress
+
+Package: com.twickd.t0mi.blacklivesmatter
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/com.twickd.t0mi.blacklivesmatter_1.4.deb
+Size: 3506440
+MD5sum: 052c8b084d9361b311c3482bd3ada958
+SHA1: 6e05c56984b1012f73bce67252c98a9526ab0c5b
+SHA256: 34f61d58e85b0281791794c60629f281aeece21adac93ffc01509ecd3dd2b253
+Section: Themes
+Description: Three BlackLivesMatter RespringThemes
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: BlackLivesMatter
+
+Package: com.twickd.t0mi.carrespringlogos
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/com.twickd.t0mi.carrespringlogos_3.3.deb
+Size: 45725960
+MD5sum: 1b4c8419c961c0153c2a801c64a52c2f
+SHA1: 460765ee8b144e25cd436f27f5fe1773128e5aca
+SHA256: 6a49a8ccbdfd0ef3d44be18f9413327dc675fccffe72b86e4f9a7497797a9ed5
+Section: Themes
+Description: Car brands as respring themes
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: CarRespringLogos
+
+Package: com.twickd.t0mi.cydia-quick-translations
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Depends: com.yourepo.ibreak.cydiaquick, mobilesubstrate
+Filename: ./debs/com.twickd.t0mi.cydia-quick-translations_1.4.deb
+Size: 4452
+MD5sum: ed6f727efa1aef93091b3120f49df2d6
+SHA1: 74fa35d729aa6592e430d7fb4b4ce8ffe755e386
+SHA256: 3e1a6b075f6a8c700cf1d53b924902de9774b0c2186bd7790f0856ce300b0564
+Section: System
+Description: Now you can enjoy Cydia Quick in many languages. You need this repo: https://ibreak.yourepo.com/
+Author: t0mi <fritsch.weiding@yahoo.de>
 Name: Cydia Quick Translations
-Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-quick-translations/native
 
 Package: com.twickd.t0mi.cydia-timeout-10
-Version: 1.0.9.9
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
-Filename: ./debs/cydia-timeout-10.deb
-Size: 946
-MD5sum: 94a7bfb56cdb4f8fb304c716bf6481bc
-SHA1: 5a10f76448091a05d40593b0901a7422eaaef00c
-SHA256: fc1ed4dcab3c49ffb157d0df61a7f404cb0f09d1d47c77d1c27864da9fb7f516
+Depends: mobilesubstrate
+Filename: ./debs/com.twickd.t0mi.cydia-timeout-10_1.2.deb
+Size: 944
+MD5sum: e6f0a234b0155970c36a2a60cdc63ffb
+SHA1: 69cf693676c76f575009745133906fcc6bfce1ad
+SHA256: d45267ce22198d25a75d74a15e8b693d0f0803eef20790ef4cf20db19aed8e57
 Section: System
-Description: Force Cydia to only spend ten seconds trying to refresh each source. Cuts down on overall refresh time. Inspired by chickenmatt5's outdated Cydia Timeout 2/5/20.
-Tag: compatible_min::ios7.0, compatible_max::ios14.4
+Description: Force Cydia to only spend ten seconds trying to refresh each source. Cuts down on overall refresh time.
 Author: t0mi <fritsch.weiding@yahoo.de>
-Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-10
 Name: Cydia Timeout 10
-Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-10/native
 
 Package: com.twickd.t0mi.cydia-timeout-5
-Version: 1.0.9.9
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20, com.twickd.t0mi.cydia-timeout-10
-Filename: ./debs/cydia-timeout-5.deb
-Size: 958
-MD5sum: 001cd9fd845a33f87118b834dbb47e35
-SHA1: 2b2c3fc45fa928dedbaf67e25361199198aa6677
-SHA256: 320068c15d94942da99a8b38ec49493b64c8e1fb16fca66a30939eb2d0854679
+Filename: ./debs/com.twickd.t0mi.cydia-timeout-5_1.1.deb
+Size: 964
+MD5sum: 5d519d96ca5b2a6981ce60cf859ffd7b
+SHA1: 593098dcc56b9f3581c903bd36bedbce351b85e5
+SHA256: b0f5578b8881f867114590928b38a38fa126cfe1c0e9436850993a5e757f9380
 Section: System
-Description: Force Cydia to only spend five seconds trying to refresh each source. Cuts down on overall refresh time. Inspired by chickenmatt5's outdated Cydia Timeout 2/5/20.
-Tag: compatible_min::ios7.0, compatible_max::ios14.5
+Description: Force Cydia to only spend ten seconds trying to refresh each source. Cuts down on overall refresh time. Inspired by chickenmatt5's outdated Cydia Timeout 2/5/20.
 Author: t0mi <fritsch.weiding@yahoo.de>
-Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-5
 Name: Cydia Timeout 5
-Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydia-timeout-5/native
 
 Package: com.twickd.t0mi.cydiapulldown
-Version: 0.9.9
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Installed-Size: 156
 Depends: mobilesubstrate
-Filename: ./debs/cydiapulldown.deb
-Size: 9958
-MD5sum: 900a621c4e039901eb7ae73b947c7dd3
-SHA1: 0f60731e5714b889b60482b81d9ef4e475d0f94b
-SHA256: 1ce21d0f03d5b2f4bc5697f212a41918a6273516242a6684dda705c38d54e815
+Filename: ./debs/com.twickd.t0mi.cydiapulldown_1.1.deb
+Size: 6420
+MD5sum: 7e19d7243de5ace3e5177d12a2b95c20
+SHA1: a9f5ca353e7c37b03e17404d5067a9f225103f17
+SHA256: cc7062dc13a6d1345ccee72b09c2c564f2b3cb096e1c7f17974c3658e783350b
 Section: Tweaks
 Description: pull down to refresh
-Tag: compatible_min::ios7.0, compatible_max::ios14.5
-Author: t0mi, iMokhles <fritsch.weiding@yahoo.de>
+Author: t0mi <fritsch.weiding@yahoo.de>
 Name: CydiaPullDown
+
+Package: com.twickd.t0mi.footballrespringclubs
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Depends: mobilesubstrate
+Filename: ./debs/com.twickd.t0mi.footballrespringclubs_2.7.deb
+Size: 19609064
+MD5sum: 749753cecc45c40c1f08ae9e090e4570
+SHA1: 7775feb07c4b6da4441b7236334d77fa1a62e47d
+SHA256: 67af7851031b8441dd2bb88e7b420ca54f5b95a9262622ee7d80020704cc6730
+Section: Themes
+Description: Football Clubs RespringTheme
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: FootballRespringClubs
+
+Package: com.twickd.t0mi.jailbreakrespringlogos
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/com.twickd.t0mi.jailbreakrespringlogos_1.6.deb
+Size: 17134236
+MD5sum: 1a1592c53513fa07068002a38c2fa13d
+SHA1: 783c0e7bd6755568e1eb0c2a197d9acea5c806a1
+SHA256: e680c6a84f14fbfb635279d75bdc4b6e85c507969c1950b3139e8118d3653eaa
+Section: Themes
+Description: Jailbreak Logos as a Respring Theme
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: JailbreakRespringLogos
+
+Package: com.twickd.t0mi.nysportsrespring
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/com.twickd.t0mi.nysportsrespring_1.1.deb
+Size: 3220672
+MD5sum: cfff79cae979af54377d63e727bfa0e3
+SHA1: b4684e6ca4b7edc49db7a956333b24c6bae54b37
+SHA256: c87eb6b44f24c4fb4357c553963f4885bf7ea57feb3ee2506db17190331cf284
+Section: Themes
+Description: New York Sports Teams RespringTheme
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: NYSportsRespring
 
 Package: com.twickd.t0mi.sirispring
 Version: 0.9.1
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
 Installed-Size: 47754
-Filename: ./debs/sirispring.deb
+Filename: ./debs/com.twickd.t0mi.sirispring_0.9.1.deb
+Size: 47754368
 MD5sum: 5201626ad929ea751a39a7c5ca5f2347
 SHA1: 617a1486b37c572529e79c5cbe33149fc0fe81af
 SHA256: e74f623f02dd260ac67b32cefc6e76828a4806d47548e9b9dc6164e242599b06
