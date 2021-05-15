@@ -143,18 +143,93 @@ Author: t0mi <fritsch.weiding@yahoo.de>
 Name: NYSportsRespring
 
 Package: com.twickd.t0mi.sirispring
-Version: 0.9.1
+Version: 0.9.5
 Architecture: iphoneos-arm
 Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Installed-Size: 47754
-Filename: ./debs/com.twickd.t0mi.sirispring_0.9.1.deb
-Size: 47754368
-MD5sum: 5201626ad929ea751a39a7c5ca5f2347
-SHA1: 617a1486b37c572529e79c5cbe33149fc0fe81af
-SHA256: e74f623f02dd260ac67b32cefc6e76828a4806d47548e9b9dc6164e242599b06
+Filename: ./debs/com.twickd.t0mi.sirispring_0.9.5_iphoneos-arm.deb
+Size: 24549072
+MD5sum: a45759ae3091e6d682d7d844ed331649
+SHA1: 675961ab8ec53f2321d25f06e85164350bf70337
+SHA256: 998c87127f2eb8207b9cb8059893788a1a8f47b68f7086f0a63ecab9fd036db3
 Section: Themes
 Description: iOS 14 Siri Respring Theme
 Tag: compatible_min::ios11.0, compatible_max::ios14.6
 Author: t0mi <fritsch.weiding@yahoo.de>
 Name: SiriSpring
+
+Package: pmi.t0mi.sirispring125
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/pmi.t0mi.sirispring125_1.0_iphoneos-arm.deb
+Size: 24575020
+MD5sum: b4300f03cb7ccecdf5300e6f0d462ab9
+SHA1: 20ab5a35eb5780ba8bcf58d174ed56935235800a
+SHA256: 54b05217b5801eecc1f9ed54b70c0c8d8c0f35e876f421fea4d5b56d250347ef
+Section: Themes
+Description: 125% Zoom of SiriSpring
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: SiriSpring [125%]
+
+Package: pmi.t0mi.sirispring150
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/pmi.t0mi.sirispring150_1.0_iphoneos-arm.deb
+Size: 32387640
+MD5sum: 51215d23a55629f199d3eaab0d9fa537
+SHA1: a107108dfe8a01fcf5cc14dba3717f93918de5ab
+SHA256: 6ebd10a41e2d6cc7192a6487dd2e30a78f4460894259ac89be908a9c8135c89b
+Section: Themes
+Description: 150% Zoom of SiriSpring
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: SiriSpring [150%]
+
+Package: pmi.t0mi.sirispring200
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/pmi.t0mi.sirispring200_1.0_iphoneos-arm.deb
+Size: 48174368
+MD5sum: 3e348c0eb0d9cd2ea6645ebbec1085c5
+SHA1: 1e859349ecf54d716ff80e5832e40ea58ad92547
+SHA256: 0d2d4e259b29ec4edf965f892f691858681ef7349a687917e298d36ccf805259
+Section: Themes
+Description: 200% Zoom of SiriSpring
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: SiriSpring [200%]
+
+Package: pmi.t0mi.sirispring250
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/pmi.t0mi.sirispring250_1.0_iphoneos-arm.deb
+Size: 67703400
+MD5sum: 50ef36ee47cf39c1577025a256e62124
+SHA1: a608e13276012ae6832bbf079f19c567834b5b31
+SHA256: c93821dbf0e9bee64e7155a2f03b69c74b22b93a5a3dfe3d51f8769cf0f266d9
+Section: Themes
+Description: 250% Zoom of SiriSpring
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: SiriSpring [250%]
+
+Package: pmi.t0mi.sirispringlite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Conflicts: com.twickd.t0mi.sirispring, pmi.t0mi.sirispring125, pmi.t0mi.sirispring150, pmi.t0mi.sirispring200, pmi.t0mi.sirispring250
+Filename: ./debs/pmi.t0mi.sirispringlite_1.0_iphoneos-arm.deb
+Size: 78554856
+MD5sum: 1e305ca8f7a84eef00dc0dbe4ee3ac18
+SHA1: 16a87ed8c90ba3b95e4ac49ed00f84814e19b875
+SHA256: ed19322720fad29535b0836a38f63dc1981338b43f85f2c6b22520400f2edcc4
+Section: Themes
+Description: Short animation only for respring. All sizes.
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Author: t0mi <fritsch.weiding@yahoo.de>
+Name: SiriSpring [Lite]
 
