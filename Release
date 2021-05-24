@@ -1,8 +1,8 @@
 Origin: t0mi
 Label: t0mi
 Suite: stable
-Version: 1.0
-Codename: TR
+Version: 1.1
+Codename: T
 Architectures: iphoneos-arm
 Components: main
 Description: t0mi's Repo

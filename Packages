@@ -233,3 +233,16 @@ Tag: compatible_min::ios11.0, compatible_max::ios14.6
 Author: t0mi <fritsch.weiding@yahoo.de>
 Name: SiriSpring [Lite]
 
+Package: pmi.t0mi.dokaspring
+Architecture: iphoneos-arm
+Name: DokaSpring
+Version: 1.0
+Description: DokaSpring
+Author: t0mi <fritsch.weiding@yahoo.de>
+Section: Themes
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Filename: ./debs/pmi.t0mi.dokaspring_1.0_iphoneos-arm.deb
+MD5sum: 0f5abfc53d6570c788cf93618425dc34
+SHA1: d83b574dd87d5fdb333516f7425d24c0564f7022
+SHA256: a7eb7de91da04234a6ff4189cac7d63292a4a7661737bc3e00d0b487e69912b9
+
