@@ -233,3 +233,32 @@ Tag: compatible_min::ios11.0, compatible_max::ios14.6
 Author: t0mi <fritsch.weiding@yahoo.de>
 Name: SiriSpring [Lite]
 
+Name: SiriSpring [75%]
+Version: 1.0
+Architecture: iphoneos-arm
+Author: t0mi <fritsch.weiding@yahoo.de>
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Package: pmi.t0mi.sirispring75
+Section: Themes
+Description: 75% Zoom of SiriSpring
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Filename: ./debs/pmi.t0mi.sirispring75_1.0_iphoneos-arm.deb
+MD5sum: 1833b57e9d4e1a21829b749f1b2c99a7
+SHA1: 52bc53ac2387e8a6199a9d89e8a46dc0983f8807
+SHA256: 41fb4a1fbcca09f8b454838972fbed85f7f45640db218d2b3b5785605e3d038c
+
+Name: SiriSpring [Lite]
+Version: 1.1
+Architecture: iphoneos-arm
+Author: t0mi <fritsch.weiding@yahoo.de>
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Package: pmi.t0mi.sirispringlite
+Section: Themes
+Description: Short animation only for respring. All sizes.
+Tag: compatible_min::ios11.0, compatible_max::ios14.6
+Filename: ./debs/pmi.t0mi.sirispringlite_1.1_iphoneos-arm.deb
+MD5sum: 739ed0c3494bd8fd31fd129fd7bac3b7
+SHA1: b481cd59acad2e07be43bb6aded51509d7e0feb2
+SHA256: f72048b1036ac438af89694ef5bcc7015ff4a4a1ed4f5d1e1cd1c8141037a1f1
+
+
