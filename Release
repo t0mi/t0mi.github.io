@@ -1,9 +1,9 @@
-Origin: Pimp My iDevice
+Origin: t0mi's Repo
 Label: t0mi - GitHub
 Suite: stable
 Version: 1.2
-Codename: TR
+Codename: TPMI
 Architectures: iphoneos-arm
 Components: main
-Description: t0mi's Repo
+Description: t0mi - Pimp My iDevice
 Icon: file://CydiaIcon.png
