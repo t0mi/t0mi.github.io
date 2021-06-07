@@ -1,8 +1,8 @@
-Origin: t0mi's Repo
+Origin: Pimp My iDevice
 Label: t0mi - GitHub
 Suite: stable
-Version: 1.1
-Codename: T
+Version: 1.2
+Codename: TR
 Architectures: iphoneos-arm
 Components: main
 Description: t0mi's Repo
